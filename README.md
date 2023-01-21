@@ -6,14 +6,14 @@ This app achieves the basic features in ios development, including view componen
 
 ### App Walk-though
 
-<img src = 
+<img src = "demo.gif">
 
 ### Achieved Features
 
-- \1. App displays an image of a school's logo
-- \2. App has three textfields for first, last, and school names
-- \3. App has a segmented control that changes student year
-- \4. Number of pet matches label is increased/decreased by stepper
-- \5. Switch makes a statement about wanting more pets or not(true/false)
-- \6. Introduce yourself button shows alert box with an introduciton and dismiss button
+- App displays an image of a school's logo
+- App has three textfields for first, last, and school names
+- App has a segmented control that changes student year
+- Number of pet matches label is increased/decreased by stepper
+- Switch makes a statement about wanting more pets or not(true/false)
+- Introduce yourself button shows alert box with an introduciton and dismiss button
 
